@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+  margin: 0px;
+}
+
+.dot-icon-2 {
+  margin-left: 10px;
+}
+
+.dot-icon {
+  margin-left: 90px;
+}
+
+.dot-icon-1 {
+  margin-left: 45px;
+}
+
+.bg-container {
+  background-color: #e38493;
+  padding: 15px;
+  margin: 2px;
+  width: 100vw;
+  background-size: cover;
+}
+
+.profile-logo_title {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+  font-weight: 350;
+  color: #5c0099;
+}
+
+.highled-text {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+hr {
+  height: 4px;
+  width: 62vw;
+  background-color: #5c0099;
+}
+
+.hobbies-container {
+  margin-right: 50px;
+}
+
+.address-details {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 350;
+  color: #5c0099;
+}
+
+.vertical-line {
+  border-left: thick solid #5c0099;
+  height: 100%;
+}
+
+.person-name {
+  font-family: "Roboto";
+  font-size: 34px;
+  font-weight: 600;
+  color: #5c0099;
+  margin-right: 32px;
+}
+
+.person-profession {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 350;
+  color: #5c0099;
+}
